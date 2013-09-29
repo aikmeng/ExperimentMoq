@@ -52,6 +52,7 @@
   <ItemGroup>
     <Compile Include="DbEntity.cs" />
     <Compile Include="CustomDbContext.cs" />
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Processor.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
